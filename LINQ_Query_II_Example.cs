@@ -14,7 +14,7 @@ namespace ConsoleApp1
             //Data Source
             List<Student> studentList = new List<Student>
             {
-                new Student(){Name = "Stella", Course = "Information Technology", YearLevel = 1, Grade = 85},
+                new Studena(){Name = "Stella", Course = "Information Technology", YearLevel = 1, Grade = 85},
                 new Student(){Name = "Kurt", Course = "Civil Engineering", YearLevel = 2,  Grade = 84},
                 new Student(){Name = "James", Course = "Nursing", YearLevel = 4, Grade = 75},
                 new Student(){Name = "Lance", Course = "Accounting", YearLevel = 5, Grade = 90},
